@@ -1,0 +1,70 @@
+body{
+    background-image: url(Rare_Americans_background2.png);}
+.SongTitle{ color: rgb(0, 0, 0); text-align: center; font-family: 'Amatic SC-Bold'; font-size: 50px; position:relative; bottom: 20px;}
+
+
+@font-face {
+    font-family: 'Amatic SC-Regular';
+    src: url(AmaticSC-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Amatic SC-Bold';
+    src: url(AmaticSC-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Permanent Marker';
+    src: url(PermanentMarker-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Indie Flower';
+    src: url(IndieFlower-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Oswald';
+    src: url(Oswald-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url(BebasNeue-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Dela Gothic One';
+    src: url(DelaGothicOne-Regular.ttf);
+}
+
+
+@font-face {
+    font-family: 'EB Garamond';
+    src: url(EBGaramond-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: 'EB Garamond Italic';
+    src: url(EBGaramond-Italic-VariableFont_wght.ttf);
+}
+
+
+h2{color: aqua; text-align: center;background-color: lightskyblue; 
+    width: 300px; height: 25px; position:relative; left: 550px; bottom: 80px; padding: 10px;}
+
+#lineOne{color: rgb(255, 255, 255); text-align: center; font-size: 30px; font-family: 'Oswald'; position: relative;bottom: 100px;}
+#lineTwo{color: rgb(0, 0, 0); text-align: center; font-size: 30px; font-family: 'Oswald'; position: relative;bottom: 100px;}
+#lineThree{color: rgb(255, 255, 255); text-align: center; font-size: 30px; font-family: 'Oswald'; position: relative;bottom: 100px;}
+#lineFour{color: rgb(200, 0, 0); text-align: center; font-size: 40px; font-family: 'Permanent Marker'; position: relative;bottom: 100px; padding: 20px; background-color: black; width: 950px; height: 55px;left: 240px; }
+#lineFive{color: rgb(255, 255, 255); text-align: center; font-size: 30px; font-family: 'Oswald'; position: relative;bottom: 80px;} 
+#lineSix{color: rgb(255, 255, 255); text-align: center; font-size: 30px; font-family: 'Oswald'; position: relative;bottom: 80px;}
+#lineSeven{color: rgb(255, 255, 255); text-align: center; font-size: 30px; font-family: 'Oswald'; position: relative;bottom: 80px;}
+#lineEight{color: rgb(255, 255, 255); text-align: center; font-size: 40px; font-family: 'Oswald'; position: relative;bottom: 35px;}
+#lineNine{color: rgb(255, 255, 255); text-align: center; font-size: 40px; font-family: 'Oswald';}
+#lineTen{color: rgb(255, 255, 255); text-align: center; font-size: 40px; font-family: 'Oswald';}
+#lineEleven{color: rgb(255, 255, 255); text-align: center; font-size: 40px; font-family: 'Oswald';}
+#lineTwelve{color: rgb(255, 255, 255); text-align: center; font-size: 40px; font-family: 'Oswald';}
+#lineThirteen{color: rgb(255, 255, 255); text-align: center; font-size: 40px; font-family: 'Oswald';}
+#lineForteen{color: rgb(255, 255, 255); text-align: center; font-size: 40px; font-family: 'Oswald';}
+#Chorus{color: rgb(255, 255, 255); text-align: center; font-size: 70px; font-family:'Bebas Neue'; position: relative; top: 30px;} 
